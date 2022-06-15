@@ -7,7 +7,7 @@ const nuevaString = nico;
 const nuevoNum = 9;
 
 // Crea una variable booleana:
-const nuevoBool = true;
+const nuevoBool = False;
 
 // Resuelve el siguiente problema matemático:
 const nuevaResta = 10 - 5 === 5;
@@ -27,7 +27,7 @@ const nuevoModulo = 21 % 5 === 1;
 
 function devolverString(str) {
   // "Return" la string provista: str
-  // Tu código:
+  // Tu código: 
   
 }
 
