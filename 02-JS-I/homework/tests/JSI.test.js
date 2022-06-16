@@ -11,7 +11,7 @@ const {
   sonIguales,
   menosQueNoventa,
   mayorQueCincuenta,
-  sumar,
+  suma,
   resta,
   divide,
   multiplica,
