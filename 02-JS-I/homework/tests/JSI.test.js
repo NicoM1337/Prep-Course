@@ -1,5 +1,39 @@
 /* eslint-disable no-undef */
-import { nuevaString, nuevoNum, nuevoBool, nuevaResta, nuevaMultiplicacion, nuevoModulo, devolverString, tienenMismaLongitud, sonIguales, menosQueNoventa, mayorQueCincuenta, suma, resta, divide, multiplica, obtenerResto, esPar, esImpar, elevarAlCuadrado, elevarAlCubo, elevar, redondearNumero, redondearHaciaArriba, numeroRandom, esPositivo, agregarSimboloExclamacion, combinarNombres, obtenerSaludo, obtenerAreaRectangulo, retornarPerimetro, areaDelTriangulo, deEuroAdolar, esVocal } from '../homework.js';
+const {
+  nuevaString,
+  nuevoNum,
+  nuevoBool,
+  nuevaResta,
+  nuevaMultiplicacion,
+  nuevoModulo,
+  devolverString,
+  tienenMismaLongitud,
+  sonIguales,
+  menosQueNoventa,
+  mayorQueCincuenta,
+  suma,
+  resta,
+  divide,
+  multiplica,
+  obtenerResto,
+  esPar,
+  esImpar,
+  elevarAlCuadrado,
+  elevarAlCubo,
+  elevar,
+  redondearNumero,
+  redondearHaciaArriba,
+  numeroRandom,
+  esPositivo,
+  agregarSimboloExclamacion,
+  combinarNombres,
+  obtenerSaludo,
+  obtenerAreaRectangulo,
+  retornarPerimetro,
+  areaDelTriangulo,
+  deEuroAdolar,
+  esVocal,
+} = require('../homework.js');
 
 describe('nuevaString', function() {
   it('Deberia ser un string', function() {
